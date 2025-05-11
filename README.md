@@ -6,7 +6,7 @@
 
 ## 🔍 Данные
 - Источник: [Marketing A/B Testing на Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data).
-- Файл: marketing_AB.csv
+- Файл: data/marketing_AB.csv
 - Поля:
   test group — группа (ad = контрольная, psa = тестовая)
   converted — факт конверсии (1/0)
